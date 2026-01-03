@@ -1,42 +1,23 @@
-IT-Helpdesk-Knowledge-Base
-│
-├── README.md
-├── Network-Issues
-│   ├── Slow-Internet.md
-│   ├── VPN-Connection-Failure.md
-│   ├── Printer-Not-Showing.md
-│   └── IP-Conflict.md
-│
-├── Security-and-MFA
-│   ├── MFA-Push-Not-Working.md
-│   ├── Suspicious-Login-Detected.md
-│   ├── Account-Locked-Out.md
-│   └── Phishing-Email-Reported.md
-│
-├── Application-Issues
-│   ├── Outlook-Password-Prompt.md
-│   ├── Teams-Not-Syncing.md
-│   └── App-Crashing.md
-│
-├── Hardware-Issues
-│   ├── Laptop-Overheating.md
-│   ├── Keyboard-Not-Working.md
-│   └── Monitor-Flicker.md
-│
-├── Account-and-Access
-│   ├── Shared-Drive-Access-Issue.md
-│   └── New-Hire-Account-Not-Working.md
-│
-├── Email-Issues
-│   ├── External-Emails-Not-Arriving.md
-│   └── Shared-Mailbox-Missing.md
-│
-├── End-User-Guides
-│   ├── Reset-Your-Password.md
-│   ├── Join-a-Teams-Meeting.md
-│   └── Connect-to-WiFi.md
-│
-└── Ticket-Templates
-    ├── Password-Reset-Ticket.md
-    └── Printer-Issue-Ticket.md
+# IT Helpdesk Knowledge Base
 
+This repository contains real-world IT Helpdesk issues, troubleshooting guides, root cause analysis, and end-user support documentation.
+
+The goal is to provide:
+- Clear troubleshooting workflows
+- Step-by-step resolutions
+- Consistent ticket documentation
+- Simple guides for non-technical users
+
+📂 Categories included:
+- Network Issues
+- Security & MFA
+- Application Support
+- Hardware Issues
+- Account & Access
+- Email Support
+- End User Guides
+- Ticket Templates
+
+This project reflects my hands-on learning and experience in IT Support & Helpdesk operations.
+
+⭐ Contributions and feedback are welcome.
