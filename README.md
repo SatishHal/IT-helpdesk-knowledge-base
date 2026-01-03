@@ -31,12 +31,6 @@ Each issue will include:
 - Resolution
 - Prevention (if applicable)
 
-## 📌 Example Format
-Issue:
-Environment:
-Symptoms:
-Root Cause:
-Resolution:
-Prevention:
+
 
 More issues will be added regularly as part of continuous learning.
