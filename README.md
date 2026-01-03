@@ -1,36 +1,42 @@
-# IT-helpdesk-knowledge-base
-A collection of common IT Helpdesk issues with resolutions and root causes.
-# IT Helpdesk Knowledge Base
+IT-Helpdesk-Knowledge-Base
+│
+├── README.md
+├── Network-Issues
+│   ├── Slow-Internet.md
+│   ├── VPN-Connection-Failure.md
+│   ├── Printer-Not-Showing.md
+│   └── IP-Conflict.md
+│
+├── Security-and-MFA
+│   ├── MFA-Push-Not-Working.md
+│   ├── Suspicious-Login-Detected.md
+│   ├── Account-Locked-Out.md
+│   └── Phishing-Email-Reported.md
+│
+├── Application-Issues
+│   ├── Outlook-Password-Prompt.md
+│   ├── Teams-Not-Syncing.md
+│   └── App-Crashing.md
+│
+├── Hardware-Issues
+│   ├── Laptop-Overheating.md
+│   ├── Keyboard-Not-Working.md
+│   └── Monitor-Flicker.md
+│
+├── Account-and-Access
+│   ├── Shared-Drive-Access-Issue.md
+│   └── New-Hire-Account-Not-Working.md
+│
+├── Email-Issues
+│   ├── External-Emails-Not-Arriving.md
+│   └── Shared-Mailbox-Missing.md
+│
+├── End-User-Guides
+│   ├── Reset-Your-Password.md
+│   ├── Join-a-Teams-Meeting.md
+│   └── Connect-to-WiFi.md
+│
+└── Ticket-Templates
+    ├── Password-Reset-Ticket.md
+    └── Printer-Issue-Ticket.md
 
-This repository is a collection of common IT Helpdesk issues, including troubleshooting steps, resolutions, and root causes. It is designed to help users and support teams quickly identify and resolve technical problems.
-
-## 🎯 Purpose
-- Improve troubleshooting speed
-- Share technical knowledge
-- Document real-world IT support experience
-- Build a professional helpdesk knowledge base
-
-## 🖥️ Topics Covered
-- Account & Login Issues
-- Network & Internet Problems
-- Email Issues
-- Hardware & Device Problems
-- Software/Application Errors
-- Printer Issues
-- Security & Access
-- Performance Problems
-- Remote Access & VPN
-- Ticket Handling & Best Practices
-
-## 📁 Structure
-Each issue will include:
-- Problem
-- Environment
-- Symptoms
-- Root Cause
-- Resolution
-- Prevention (if applicable)
-
-
-
-More issues will be added regularly as part of continuous learning.
