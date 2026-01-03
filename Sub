@@ -1,0 +1,89 @@
+Network-Issues/Slow-Internet.md
+# Slow Internet on Company Wi-Fi
+
+## Symptoms
+- Pages load slowly
+- Video/Teams lag
+- Speedtest is lower than expected
+
+## Possible Causes
+- Weak Wi-Fi signal
+- High bandwidth use
+- Outdated drivers
+- Interference
+- Network congestion
+
+## Troubleshooting Steps
+1. Check Wi-Fi signal strength
+2. Restart Wi-Fi adapter
+3. Run speedtest
+4. Try another network (hotspot)
+5. Update network drivers
+6. Test wired connection
+7. Reboot laptop
+8. Check if issue affects others
+
+## Root Cause Examples
+- Low signal coverage
+- Driver compatibility issue
+- Faulty router/AP
+- Too many users on Wi-Fi
+
+## Resolution
+- Move closer to access point
+- Update drivers
+- Switch frequency band (2.4/5GHz)
+- Escalate to networking team if latency >100ms
+
+## User Communication
+“Your device is experiencing weak Wi-Fi strength. I have optimized your connection and updated your drivers. Please let me know if performance improves.”
+
+Security-and-MFA/MFA-Push-Not-Working.md
+# MFA Push Notification Not Working
+
+## Symptoms
+- User does not receive MFA push notification
+
+## Possible Causes
+- Notifications disabled
+- Authenticator app outdated
+- Battery optimization blocking app
+- Device not enrolled correctly
+
+## Troubleshooting Steps
+1. Confirm correct device registered
+2. Ask user to open Authenticator manually
+3. Check notification settings
+4. Disable battery optimization
+5. Update Authenticator app
+6. Try verification code instead
+7. Re-register MFA if needed
+
+## Resolution
+- Reactivated MFA app
+- Updated authentication method
+- Verified login security
+
+## Security Note
+Always verify user identity before changes.
+
+End-User-Guides/Reset-Your-Password.md
+# How To Reset Your Password (Simple Guide)
+
+## Step 1
+Go to the Password Reset Portal.
+
+## Step 2
+Enter your username or email.
+
+## Step 3
+Verify your identity (SMS / Email / MFA).
+
+## Step 4
+Create a new password.
+
+✔ Tip: Use at least 12 characters  
+✔ Avoid using old passwords  
+✔ Never share your password
+
+If you still cannot log in, contact IT Support.
